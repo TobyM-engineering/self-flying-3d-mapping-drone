@@ -1,15 +1,16 @@
 <p align="center">
   <img src="media/drone-build.jpg" width="350">
-</p>
-
-<p align="center">
   <a href="media/3d-mapping-demo%20%282%29.mp4">
     <img src="media/3d-mapping-demo-cover.png" width="350">
   </a>
 </p>
 
 <p align="center">
-  <b>Click the image above to watch the drone footage to 3D model demo.</b>
+  <b>Drone Build</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>3D Mapping Demo Video</b>
+</p>
+
+<p align="center">
+  <b>Click the demo image to watch the drone footage to 3D model video.</b>
 </p>
 
 # Self-Flying 3D Mapping Drone
